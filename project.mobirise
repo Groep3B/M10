@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10"
@@ -142,7 +142,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/casestudie-1/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://groep3b.github.io/M10/index.html\" aria-expanded=\"true\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/casestudie-1/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"true\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"true\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -185,6 +185,20 @@
               "color": "#cccccc"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><br></p><p><br></p><p><br></p><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p><br></p><p><br></p><p><br></p><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_tags": [
@@ -249,7 +263,7 @@
           },
           "title1": "Menselijk lichaam",
           "subtitle1": "Brainstorm's",
-          "caption1": "Onze intressen in het menselijk lichaam heeft ons geleid naar het gedetaileerder kijken en inzoemen op het lichaam.",
+          "caption1": "Verder ingaan op het menselijk lichaam met als thema's: beweging, zicht en huid.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -281,7 +295,7 @@
           },
           "title3": "Lichaam in pijn",
           "subtitle3": "Hoe toont het menselijk lichaam in mentale en fysieke pijn.",
-          "caption3": "Menselijke pijn zowel fysiek als mentaal.",
+          "caption3": "De houding van het menselijk lichaam in pijn en/of verdriet.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -345,7 +359,7 @@
             "showMeta": true
           },
           "title": "Materiaal Studie",
-          "meta": "Onderzoek naar materialen om een huid te kunnen weergeven."
+          "meta": "Onderzoek naar materialen om een huid te kunnen weergeven.<br><br><br>"
         },
         {
           "_tags": [
@@ -438,7 +452,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>Materiaal studie: Kaarsvet, papieren zakdoekjes, behangerslijm, reliëf papier,...</p>"
         },
@@ -462,8 +476,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Menselijk Lichaam",
-          "meta": "Brainstorm's."
+          "title": "<br>Menselijk Lichaam",
+          "meta": "Brainstorm's.<br><br><br>"
         },
         {
           "_tags": [
@@ -526,7 +540,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "We zijn begonen met brainstormen met onze gedachten gericht op het menselijklichaam. zo zijn we tot drie grote thema's gekomen: Beweging, zicht en huid. Op de huid zijn we verder ingegaan.&nbsp;"
         },
@@ -550,8 +564,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Lichaam in pijn",
-          "meta": "Hoe toont het menselijk lichaam in mentale en fysieke pijn."
+          "title": "<br>Lichaam in pijn",
+          "meta": "Hoe toont het menselijk lichaam in mentale en fysieke pijn.<br><br><br>"
         },
         {
           "_tags": [
@@ -624,7 +638,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>Het menselijk lichaam in pijn of verdriet. Alle mensen in welke cultuur of land dan ook geeft dit gevoel weer door de houding die ze aannemen. Ingedogen als een bolletje, zoekend naar beschutting ( onder een deken ).</p>"
         },
@@ -641,7 +655,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -666,13 +680,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
           "title1": "De Backer Eline",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Eline.de.backer@hotmail.com",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -682,13 +696,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
           "title2": "Lotte Dierckx",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Lotte.anjies@outlook.com",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/lotte.dierckx.3?fref=ts\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/lotte.dierckx.3?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -698,13 +712,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
           "title3": "Hanne Schelkens",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Hanneschelkens@hotmail.com",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/hanne.schelkens?fref=ts\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/hanne.schelkens?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -714,13 +728,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
           "title4": "Nathalie Storimans",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Nathaliestorimans@hotmail.com",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/nathalie.storimans?fref=ts\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/nathalie.storimans?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media5": {
             "iconFont": {
               "active": true,
