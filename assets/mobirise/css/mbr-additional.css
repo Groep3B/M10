@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -432,6 +433,7 @@ h6,
 #menu-o .link,
 #menu-o .dropdown-item {
   color: #c29495;
+  font-family: 'Bitter', serif;
 }
 #menu-o .link {
   font-size: 1.1rem;
@@ -496,7 +498,7 @@ h6,
 }
 #features3-5 P {
   font-family: 'Bitter', serif;
-  text-align: left;
+  text-align: center;
 }
 #features3-5 .btn {
   font-family: 'Bitter', serif;
@@ -520,12 +522,5 @@ h6,
   text-align: center;
 }
 #header3-s H3 {
-  color: #c29495;
-}
-#header3-v .mbr-section-title,
-#header3-v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-v H3 {
   color: #c29495;
 }
