@@ -503,18 +503,18 @@ h6,
 #features3-5 .btn {
   font-family: 'Bitter', serif;
 }
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-m H3 {
-  color: #c29495;
-}
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
   text-align: center;
 }
 #header3-r H3 {
+  color: #c29495;
+}
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-m H3 {
   color: #c29495;
 }
 #header3-s .mbr-section-title,
