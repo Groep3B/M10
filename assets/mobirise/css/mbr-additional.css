@@ -12,6 +12,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -482,12 +483,13 @@ h6,
   color: #c0a375!important;
 }
 #header1-g .mbr-section-title {
-  font-family: 'Bitter', serif;
+  font-family: 'Raleway', sans-serif;
   color: #c29495;
   text-align: center;
 }
 #header1-g .mbr-section-lead {
   color: #cccccc;
+  font-family: 'Raleway', sans-serif;
 }
 #features3-5 H4 {
   color: #c29495;
@@ -601,6 +603,17 @@ h6,
 
 
 
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d H3 {
+  color: #c29495;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-1d SMALL {
+  font-family: 'Raleway', sans-serif;
+}
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -662,15 +675,4 @@ h6,
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-1d .mbr-section-title,
-#header3-1d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1d H3 {
-  color: #c29495;
-  font-family: 'Raleway', sans-serif;
-}
-#header3-1d SMALL {
-  font-family: 'Raleway', sans-serif;
 }
