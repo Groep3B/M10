@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 52,
+    "uniqCompNum": 57,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10"
@@ -185,7 +185,8 @@
             ".mbr-section-lead": {
               "color": "#cccccc",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
             }
           }
         },
@@ -212,7 +213,8 @@
             "H4": {
               "color": "#c29495",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
             },
             "SPAN": {
               "font-family": "'Bitter', serif",
@@ -227,8 +229,8 @@
               "text-align": "center"
             },
             ".btn": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "H5": {
               "font-family": "'Raleway', sans-serif",
@@ -276,7 +278,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/m8-600x800-95.jpg",
+              "src": "@PROJECT_PATH@/assets/images/m8-600x800-98.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -288,7 +290,7 @@
           },
           "title2": "Materiaal studie&nbsp;",
           "subtitle2": "Onderzoek naar materialen om een huid te kunnen weergeven.",
-          "caption2": "Onderzoek naar materialen die de huid kunnen weergeven.&nbsp;",
+          "caption2": "Onderzoek naar materialen die de huid kunnen weergeven.<br>&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -304,7 +306,7 @@
           },
           "title3": "Lichaam in pijn",
           "subtitle3": "Hoe toont het menselijk lichaam in mentale en fysieke pijn.",
-          "caption3": "De houding van het menselijk lichaam in pijn en/of verdriet.",
+          "caption3": "De houding van het menselijk lichaam in pijn en/of verdriet.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -390,7 +392,7 @@
           },
           "title1": "De Backer Eline",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Eline.de.backer@hotmail.com",
+          "caption1": "<i>Eline.de.backer@hotmail.com</i>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media2": {
             "iconFont": {
@@ -406,7 +408,7 @@
           },
           "title2": "Lotte Dierckx",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Lotte.anjies@outlook.com",
+          "caption2": "<i>Lotte.anjies@outlook.</i>com",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/lotte.dierckx.3?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media3": {
             "iconFont": {
@@ -422,7 +424,7 @@
           },
           "title3": "Hanne Schelkens",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Hanneschelkens@hotmail.com",
+          "caption3": "<i>Hanneschelkens@hotmail.com</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/hanne.schelkens?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media4": {
             "iconFont": {
@@ -438,7 +440,7 @@
           },
           "title4": "Nathalie Storimans",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Nathaliestorimans@hotmail.com",
+          "caption4": "<i>Nathaliestorimans@hotmail.com</i>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/nathalie.storimans?fref=ts\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media5": {
             "iconFont": {
@@ -467,7 +469,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -476,6 +484,96 @@
         "order": 2
       },
       "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#c29495"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c29495"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c29495",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-family": "'Bitter', serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c29495",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-14",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Bitter",
+              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "css": "'Bitter', serif"
+            },
+            "fontColor": "#c29495",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/casestudie-1/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -499,10 +597,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "<br>Menselijk Lichaam",
+          "title": "<br><br>Menselijk Lichaam",
           "meta": "Brainstorm's.<br><br><br>"
         },
         {
@@ -565,7 +663,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -583,7 +681,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><br></p><p>Materiaal studie: Kaarsvet, papieren zakdoekjes, behangerslijm, reliëf papier,...</p><p><br></p>"
         }
@@ -727,7 +825,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Materiaal Studie",
+          "title": "<br><br>Materiaal Studie",
           "meta": "Onderzoek naar materialen om een huid te kunnen weergeven.<br><br><br>"
         },
         {
@@ -744,38 +842,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15267502-10211416749837261-8010308951500059188-n-2000x2666-33-2000x2666-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15267502-10211416749837261-8010308951500059188-n-2000x2666-33.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15284106-10211416749957264-3266058351307750213-n-2000x2666-77-2000x2666-80.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15284106-10211416749957264-3266058351307750213-n-2000x2666-77.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15219523-10211416750317273-4424210250664397017-n-2000x1500-40-2000x1500-93.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15219523-10211416750317273-4424210250664397017-n-2000x1500-40.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15253377-10211416751117293-3516089423097758543-n-2000x2666-62-2000x2666-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15253377-10211416751117293-3516089423097758543-n-2000x2666-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k5-2000x2666-65-2000x2666-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k5-2000x2666-65.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -784,18 +852,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15171252-10211416761197545-5168131988533259387-n-2000x1500-76-2000x1500-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15171252-10211416761197545-5168131988533259387-n-2000x1500-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k1-2000x2666-88-2000x2666-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k1-2000x2666-88.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15317753-10211416823239096-5917883780249713545-n-2000x1500-96-2000x1500-74.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15317753-10211416823239096-5917883780249713545-n-2000x1500-96.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k2-2000x2666-45-2000x2666-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k2-2000x2666-45.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k3-2000x2666-5-2000x2666-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k3-2000x2666-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k4-2000x1500-12-2000x1500-75.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k4-2000x1500-12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k6-2000x1500-28-2000x1500-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k6-2000x1500-28.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -858,7 +956,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Lichaam in pijn",
+          "title": "<br><br>Lichaam in pijn",
           "meta": "Hoe toont het menselijk lichaam in mentale en fysieke pijn.<br><br><br>"
         },
         {
@@ -871,12 +969,22 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/h1-2000x1500-17-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/h1-2000x1500-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h3-2000x1500-5-2000x1500-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h3-2000x1500-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4987dc9bca85ce3dd05740b4a9b25b60-2000x3003-22-2000x3003-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4987dc9bca85ce3dd05740b4a9b25b60-2000x3003-22.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -895,18 +1003,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/h3-2000x1500-5-2000x1500-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/h3-2000x1500-5.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/h2-2000x2666-72-2000x2666-16.jpg",
-                "image": "@PROJECT_PATH@/assets/images/h2-2000x2666-72.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14d2e3a85f6336b6ab681003ef222be3-2000x1297-21-2000x1297-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14d2e3a85f6336b6ab681003ef222be3-2000x1297-21.jpg",
                 "caption": "Type caption here",
                 "active": true
               }

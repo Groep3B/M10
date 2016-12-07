@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -490,10 +491,12 @@ h6,
 #header1-g .mbr-section-lead {
   color: #cccccc;
   font-family: 'Raleway', sans-serif;
+  font-size: 20px;
 }
 #features3-5 H4 {
   color: #c29495;
   font-family: 'Raleway', sans-serif;
+  font-size: 25px;
 }
 #features3-5 SPAN {
   font-family: 'Bitter', serif;
@@ -506,13 +509,79 @@ h6,
   text-align: center;
 }
 #features3-5 .btn {
-  font-family: 'Bitter', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #features3-5 H5 {
   font-family: 'Raleway', sans-serif;
 }
+#features6-h H4 {
+  font-family: 'Raleway', sans-serif;
+}
 
 
+
+#menu-14 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-14 .navbar-caption {
+  color: #ffffff;
+}
+#menu-14 .navbar-toggler {
+  color: #c29495;
+}
+#menu-14 .close-icon::before,
+#menu-14 .close-icon::after {
+  background-color: #c29495;
+}
+#menu-14 .link,
+#menu-14 .dropdown-item {
+  color: #c29495;
+  font-family: 'Bitter', serif;
+}
+#menu-14 .link {
+  font-size: 1.1rem;
+}
+#menu-14 .dropdown-item,
+#menu-14 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu-14 .link:hover,
+#menu-14 .dropdown-item:hover,
+#menu-14 .link:focus,
+#menu-14 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-14 .nav-dropdown-sm .link:focus,
+#menu-14 .nav-dropdown-sm .link:hover,
+#menu-14 .nav-dropdown-sm .dropdown-item:focus,
+#menu-14 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-14 .navbar,
+#menu-14 .nav-dropdown-sm,
+#menu-14 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-14 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-14 .bg-color.transparent .link {
+  color: #c29495;
+  transition: none;
+}
+#menu-14 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-14 .bg-color.transparent.opened .link:hover,
+#menu-14 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
 #header3-17 .mbr-section-title,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
