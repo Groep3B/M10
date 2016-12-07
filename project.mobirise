@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -634,7 +634,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"page2.html\" class=\"text-black\"> materiaal studie &nbsp; &nbsp; &nbsp; </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
           "meta": ""
         },
         {
