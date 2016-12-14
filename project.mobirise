@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10"
@@ -322,9 +322,126 @@
             }
           },
           "title4": "Vertaling naar vorm",
-          "subtitle4": "Vormtaal<br><br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.</span><span style=\"font-style: normal;\"><br></span>",
+          "subtitle4": "Vormtaal<br><br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.<br></span><span style=\"font-style: normal;\"><br></span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-20",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/b5-600x800-16.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Menselijk lichaam",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Verder ingaan op het menselijk lichaam met als thema's: beweging, zicht en huid.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m8-600x800-98.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Materiaal studie",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Onderzoek naar materialen die de huid kunnen weergeven.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m9-600x800-87.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page3.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Lichaam in pijn",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "De houding van het menselijk lichaam in pijn en/of verdriet.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/b6-600x800-78.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page4.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Vertaling naar vorm",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "De vertaling van bescherming die vluchtelingen voelen onder een deken.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
