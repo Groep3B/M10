@@ -10,10 +10,6 @@
 
 
 
-
-
-
-
 body,
 input,
 textarea,
@@ -493,28 +489,11 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
-#features3-5 H4 {
+#features3-20 H4 {
   color: #c29495;
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
 }
-#features3-5 SPAN {
+#features3-20 H5 {
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-  color: #232323;
-  text-align: left;
-}
-#features3-5 P {
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-}
-#features3-5 .btn {
-  font-family: 'Raleway', sans-serif;
-}
-#features3-5 H5 {
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  font-size: 14px;
 }
 #features6-h H4 {
   font-family: 'Raleway', sans-serif;
