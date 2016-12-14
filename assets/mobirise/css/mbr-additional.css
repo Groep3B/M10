@@ -811,6 +811,10 @@ h6,
 }
 #header3-1s H3 {
   color: #c29495;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-1s SMALL {
+  font-family: 'Raleway', sans-serif;
 }
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
@@ -889,20 +893,4 @@ h6,
 #menu-1r .link[aria-expanded="true"],
 #menu-1r .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-1t .mbr-section-title,
-#header3-1t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1t H3 {
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  text-align: right;
-}
-#header3-1t SMALL {
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  color: #c1c1c1;
-  text-align: right;
 }

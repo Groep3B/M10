@@ -322,7 +322,7 @@
             }
           },
           "title4": "Vertaling naar vorm",
-          "subtitle4": "\"cocoon\"<br><br><br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.</span><span style=\"font-style: normal;\"><br></span>",
+          "subtitle4": "Vormtaal<br><br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.</span><span style=\"font-style: normal;\"><br></span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -1255,7 +1255,13 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#c29495"
+              "color": "#c29495",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -1269,8 +1275,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Vertaling naar vorm",
-          "meta": "\"cocoon\"<br><br><br>"
+          "title": "<br><br>Vertaling naar vorm",
+          "meta": "Vormtaal<br>"
         },
         {
           "_styles": {
@@ -1303,7 +1309,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling in vorm</a><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "title": "<br><a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling in vorm</a><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
           "meta": ""
         },
         {
@@ -1487,40 +1493,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/casestudie-1/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"page2.html\" class=\"text-black\"> materiaal studie &nbsp; &nbsp; &nbsp; </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
-          "meta": ""
         }
       ]
     }
