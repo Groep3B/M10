@@ -24,14 +24,18 @@
     "uniqCompNum": 73,
     "versionPublish": "3.9.0",
     "publishType": "github",
-    "publishPath": "file://M10"
+    "publishPath": "file://M10",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88937981-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "dbsvjhbs<dvjhbs, gifjxhdgn, yseghdhguydh",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
