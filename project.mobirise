@@ -235,7 +235,8 @@
             "H5": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c"
+              "color": "#7c7c7c",
+              "font-size": "14px"
             }
           },
           "_anchor": "features3-5",
@@ -291,7 +292,7 @@
           },
           "title2": "Materiaal studie&nbsp;",
           "subtitle2": "Onderzoek naar materialen om een huid te kunnen weergeven.",
-          "caption2": "Onderzoek naar materialen die de huid kunnen weergeven.<br>&nbsp;",
+          "caption2": "<span style=\"text-align: center; font-size: 1rem; line-height: 1.5;\">Onderzoek naar materialen die de huid kunnen weergeven.</span><br>&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -322,7 +323,7 @@
             }
           },
           "title4": "Vertaling naar vorm",
-          "subtitle4": "Vormtaal<br><br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.<br></span><span style=\"font-style: normal;\"><br></span>",
+          "subtitle4": "<span style=\"color: rgb(124, 124, 124); font-size: 14px; line-height: 1.7857; text-align: center;\">Vormtaal</span><br>&nbsp;&nbsp;<br><span style=\"font-style: normal;\">De vertaling van bescherming die vluchtelingen voelen onder een deken.<br></span><span style=\"font-style: normal;\"><br></span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
