@@ -489,6 +489,9 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
+#content6-10 P {
+  text-align: left;
+}
 #features3-20 H4 {
   color: #c29495;
 }
