@@ -479,15 +479,13 @@ h6,
 #menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-g .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
+#header4-23 .mbr-section-title {
   color: #c29495;
-  text-align: center;
-}
-#header1-g .mbr-section-lead {
-  color: #cccccc;
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+}
+#header4-23 .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
 }
 #content6-10 P {
   text-align: left;
