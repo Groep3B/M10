@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -207,12 +207,12 @@
           },
           "_anchor": "content6-10",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<p><br></p><p><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Multidisciplinariteit</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> ( het inzetten van kennis en vaardigheden uit een andere disciplines in de eigen discipline ). &nbsp;</span><br></p><p><br></p><p>Onze ontwerpopdracht betreft het creëren van een eigen object op basis van bestudeerde werken en activiteiten uit de kunst- en designwereld. Om uiteindelijk tot een potentiele idee, materiaaltoepassing, methode en denkwijzen te komen en deze weer te geven in een eigen ontwerp.&nbsp;</p><p><br></p>",
-          "text2": "<p><br></p><p><br></p><p>Na verschillende brainstorm sessies zijn we op het menselijklichaam als uitgangspunt gekomen. Verder ingaand op de bescherming van het lichaam ( bv: huid en geest ), komen we op het thema \"de tweede huid\". Deze is nog altijd vrij breedt, je kan de tweede huid op verschillende manieren interpreteren: kledingstukken, paraplu maar ook een woning en auto kunnen bekeken worden als een tweede huid. Wat opvalt is de houding die het menselijk lichaam aanneemt als het zich zelf wilt beschermen ( ingedoken ). <br><br>Door de houding te bestuderen zijn we bij het thema vluchtelingen uitgekomen. Bij hun aankomst krijgen ze vaak een deken aangeboden dat bescherming geeft ( het gevoel van beschutting en bescherming tegen koude ). Dit gevoel proberen we over te brengen naar de toeschouwer. De bescherming vinden/voelen ze tussen de vormen.&nbsp;</p><p><br></p>"
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Multidisciplinariteit</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> ( het inzetten van kennis en vaardigheden uit een andere disciplines in de eigen discipline ). &nbsp;</span><br></p><p><br></p><p>Onze ontwerpopdracht betreft het creëren van een eigen object op basis van bestudeerde werken en activiteiten uit de kunst- en designwereld. Om uiteindelijk tot een potentiele idee, materiaaltoepassing, methode en denkwijzen te komen en deze weer te geven in een eigen ontwerp.&nbsp;</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Na verschillende brainstorm sessies zijn we op het menselijklichaam als uitgangspunt gekomen. Verder ingaand op de bescherming van het lichaam ( bv: huid en geest ), komen we op het thema \"de tweede huid\". Deze is nog altijd vrij breedt, je kan de tweede huid op verschillende manieren interpreteren: kledingstukken, paraplu maar ook een woning en auto kunnen bekeken worden als een tweede huid. Wat opvalt is de houding die het menselijk lichaam aanneemt als het zich zelf wilt beschermen ( ingedoken ).&nbsp;</span><br></p><p><br>Door de houding te bestuderen zijn we bij het thema vluchtelingen uitgekomen. Bij hun aankomst krijgen ze vaak een deken aangeboden dat bescherming geeft ( het gevoel van beschutting en bescherming tegen koude ). Dit gevoel proberen we over te brengen naar de toeschouwer. De bescherming vinden/voelen ze tussen de vormen.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -230,8 +230,8 @@
           },
           "_anchor": "features3-20",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -354,8 +354,8 @@
           },
           "_anchor": "features6-h",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -974,11 +974,11 @@
           "_name": "content1",
           "_anchor": "content1-1p",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</span></p>"
         },
         {
           "_tags": [
@@ -1124,98 +1124,6 @@
             "bgColor": "#fff"
           },
           "text": "<p><br><br><br><br></p><p>De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</p><p><br></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/39-2000x2666-9-2000x2666-9.jpg",
-                "image": "@PROJECT_PATH@/assets/images/39-2000x2666-9.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/38-2000x2666-7-2000x2666-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/38-2000x2666-7.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18-2000x2666-96-2000x2666-70-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18-2000x2666-96-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14-2000x2666-34-2000x2666-42.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14-2000x2666-34.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20-2000x2666-17-2000x2666-77.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20-2000x2666-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19-2000x2666-58-2000x2666-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/19-2000x2666-58.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2666-22-2000x2666-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b-2000x2666-22.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-2d",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     },
@@ -1294,11 +1202,11 @@
           "_name": "content1",
           "_anchor": "content1-1f",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het menselijk lichaam in pijn of verdriet. Alle mensen in welke cultuur of land dan ook geeft dit gevoel weer door de houding die ze aannemen. Ingedogen als een bolletje, zoekend naar beschutting ( onder een deken ).&nbsp;</span><br></p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het menselijk lichaam in pijn of verdriet. Alle mensen in welke cultuur of land dan ook geeft dit gevoel weer door de houding die ze aannemen. Ingedogen als een bolletje, zoekend naar beschutting ( onder een deken ).&nbsp;</span></p>"
         },
         {
           "_tags": [
