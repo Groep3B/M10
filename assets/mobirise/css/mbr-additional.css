@@ -12,8 +12,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -518,22 +516,6 @@ h6,
   text-align: right;
 }
 #header3-31 SMALL {
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  color: #c1c1c1;
-  text-align: right;
-}
-#header3-4e .mbr-section-title,
-#header3-4e .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4e H3 {
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  text-align: right;
-}
-#header3-4e SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #c1c1c1;
