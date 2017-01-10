@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -258,7 +258,7 @@
           },
           "_anchor": "content6-4r",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
