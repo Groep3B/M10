@@ -618,6 +618,22 @@ h6,
 #header3-17 SMALL {
   font-family: 'Raleway', sans-serif;
 }
+#header3-1l .mbr-section-title,
+#header3-1l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1l H3 {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #c29495;
+  text-align: right;
+}
+#header3-1l SMALL {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  color: #c1c1c1;
+  text-align: right;
+}
 #header3-2h .mbr-section-title,
 #header3-2h .mbr-section-subtitle {
   text-align: center;
@@ -629,22 +645,6 @@ h6,
   text-align: right;
 }
 #header3-2h SMALL {
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  color: #c1c1c1;
-  text-align: right;
-}
-#header3-1l .mbr-section-title,
-#header3-1l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1l H3 {
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  text-align: right;
-}
-#header3-1l SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #c1c1c1;
@@ -748,6 +748,22 @@ h6,
 #header3-1a SMALL {
   font-family: 'Raleway', sans-serif;
 }
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y H3 {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #c29495;
+  text-align: right;
+}
+#header3-1y SMALL {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  color: #c1c1c1;
+  text-align: right;
+}
 #header3-2j .mbr-section-title,
 #header3-2j .mbr-section-subtitle {
   text-align: center;
@@ -759,22 +775,6 @@ h6,
   text-align: right;
 }
 #header3-2j SMALL {
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  color: #c1c1c1;
-  text-align: right;
-}
-#header3-1y .mbr-section-title,
-#header3-1y .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1y H3 {
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  text-align: right;
-}
-#header3-1y SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #c1c1c1;
@@ -816,6 +816,25 @@ h6,
 #header3-1d SMALL {
   font-family: 'Raleway', sans-serif;
 }
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x H3 {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #c29495;
+  text-align: right;
+}
+#header3-1x SMALL {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  color: #c1c1c1;
+  text-align: right;
+}
+#header3-1x SPAN {
+  color: #c29495;
+}
 #header3-2m .mbr-section-title,
 #header3-2m .mbr-section-subtitle {
   text-align: center;
@@ -827,22 +846,6 @@ h6,
   text-align: right;
 }
 #header3-2m SMALL {
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  color: #c1c1c1;
-  text-align: right;
-}
-#header3-1x .mbr-section-title,
-#header3-1x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1x H3 {
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  color: #7c7c7c;
-  text-align: right;
-}
-#header3-1x SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #c1c1c1;
@@ -935,6 +938,8 @@ h6,
 
 
 
+
+
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
@@ -945,6 +950,25 @@ h6,
 }
 #header3-1s SMALL {
   font-family: 'Raleway', sans-serif;
+}
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1z H3 {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #c29495;
+  text-align: right;
+}
+#header3-1z SMALL {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  color: #c1c1c1;
+  text-align: right;
+}
+#header3-1z SPAN {
+  color: #c29495;
 }
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
@@ -962,24 +986,21 @@ h6,
   color: #c1c1c1;
   text-align: right;
 }
-#header3-1z .mbr-section-title,
-#header3-1z .mbr-section-subtitle {
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1z H3 {
+#header3-2v H3 {
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
   color: #7c7c7c;
   text-align: right;
 }
-#header3-1z SMALL {
+#header3-2v SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #c1c1c1;
   text-align: right;
-}
-#header3-1z SPAN {
-  color: #c29495;
 }
 #header3-2o .mbr-section-title,
 #header3-2o .mbr-section-subtitle {

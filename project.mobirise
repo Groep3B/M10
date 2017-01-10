@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 103,
+    "uniqCompNum": 104,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -659,7 +659,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
+              "color": "#c29495",
               "text-align": "right"
             },
             "SMALL": {
@@ -674,14 +674,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2h",
+          "_anchor": "header3-1l",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "",
+          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp;&nbsp;",
           "meta": ""
         },
         {
@@ -708,14 +708,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1l",
+          "_anchor": "header3-2h",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "title": "",
           "meta": ""
         },
         {
@@ -725,11 +725,11 @@
           "_name": "content1",
           "_anchor": "content1-19",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan.&nbsp;</span><br></p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -889,7 +889,7 @@
           "_name": "header3",
           "_anchor": "header3-2s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1032,7 +1032,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
+              "color": "#c29495",
               "text-align": "right"
             },
             "SMALL": {
@@ -1047,14 +1047,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2j",
+          "_anchor": "header3-1y",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "",
+          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
           "meta": ""
         },
         {
@@ -1081,14 +1081,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1y",
+          "_anchor": "header3-2j",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
+          "title": "",
           "meta": ""
         },
         {
@@ -1262,7 +1262,7 @@
           "_name": "header3",
           "_anchor": "header3-2l",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1315,7 +1315,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
+              "color": "#c29495",
               "text-align": "right"
             },
             "SMALL": {
@@ -1324,20 +1324,23 @@
               "font-size": "13px",
               "color": "#c1c1c1",
               "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#c29495"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2m",
+          "_anchor": "header3-1x",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "",
+          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
           "meta": ""
         },
         {
@@ -1364,14 +1367,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1x",
+          "_anchor": "header3-2m",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
+          "title": "",
           "meta": ""
         },
         {
@@ -1475,7 +1478,7 @@
           "_name": "header3",
           "_anchor": "header3-2n",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1618,6 +1621,43 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#c29495",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#c29495"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<a href=\"page1.html\" class=\"text-black\" style=\"line-height: 1.1; background-color: rgb(255, 255, 255);\">Menselijk lichaam</a><span style=\"line-height: 1.1;\">&nbsp;-&nbsp;</span><a href=\"page2.html\" class=\"text-black\" style=\"line-height: 1.1; background-color: rgb(255, 255, 255);\">materiaal studie</a><span style=\"line-height: 1.1;\">&nbsp;-&nbsp;&nbsp;</span><a href=\"page3.html\" class=\"text-black\" style=\"line-height: 1.1; background-color: rgb(255, 255, 255);\">Lichaam in pijn</a><span style=\"line-height: 1.1;\">&nbsp;- </span><a href=\"page4.html\" class=\"text-black\" style=\"line-height: 1.1; background-color: rgb(255, 255, 255);\">Vertaling naar vorm</a><br>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "color": "#7c7c7c",
               "text-align": "right"
             },
@@ -1644,54 +1684,17 @@
           "meta": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            },
-            "SPAN": {
-              "color": "#c29495"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "<br><a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp;&nbsp; &nbsp;&nbsp;</span><br>",
-          "meta": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-1v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>Het gevoel dat vluchtelingen krijgen ... Proberen weer te geven in een vorm en proberen over te brengen naar de bezoeker.&nbsp;</p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het gevoel dat vluchtelingen krijgen ... Proberen weer te geven in een vorm en proberen over te brengen naar de bezoeker.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -1786,14 +1789,48 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-2p",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
@@ -1966,7 +2003,7 @@
           "_name": "header3",
           "_anchor": "header3-2o",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
