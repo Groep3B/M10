@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 99,
+    "uniqCompNum": 100,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -355,12 +355,12 @@
           },
           "_anchor": "features6-h",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -384,8 +384,9 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#efefef"
+              "size": "100",
+              "color": "#efefef",
+              "newWindow": false
             }
           },
           "title1": "De Backer Eline",
@@ -400,8 +401,9 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#efefef"
+              "size": "100",
+              "color": "#efefef",
+              "newWindow": false
             }
           },
           "title2": "Lotte Dierckx",
@@ -416,8 +418,9 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#efefef",
+              "newWindow": false
             }
           },
           "title3": "Hanne Schelkens",
@@ -432,8 +435,9 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#efefef",
+              "newWindow": false
             }
           },
           "title4": "Nathalie Storimans",
@@ -623,7 +627,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -853,7 +857,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1030,7 +1034,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1243,7 +1247,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1313,7 +1317,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1456,7 +1460,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1633,7 +1637,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
@@ -1673,7 +1677,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br><a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
+          "title": "<br><a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;-&nbsp;<a href=\"page2.html\" class=\"text-black\">materiaal studie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a><span style=\"line-height: 1.1;\">&nbsp;&nbsp; &nbsp;&nbsp;</span><br>",
           "meta": ""
         },
         {
@@ -1964,7 +1968,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#ceb1b1",
             "showMeta": true
           },
           "title": "",
