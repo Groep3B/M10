@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 88,
+    "uniqCompNum": 99,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -207,7 +207,7 @@
           },
           "_anchor": "content6-10",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
@@ -359,7 +359,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#c29495",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -390,7 +390,7 @@
           "title1": "De Backer Eline",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<i>Eline.de.backer@hotmail.com</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -530,7 +530,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-14",
+          "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "1.1",
@@ -618,6 +618,40 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-1l",
           "_params": {
             "paddingTop": 1,
@@ -665,7 +699,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -789,6 +823,40 @@
           "_anchor": "gallery1-18",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -932,6 +1000,40 @@
           },
           "title": "<br><br>Materiaal Studie",
           "meta": "Onderzoek naar materialen om een huid te kunnen weergeven.<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_styles": {
@@ -1119,11 +1221,137 @@
           "_name": "content1",
           "_anchor": "content1-2e",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><br><br><br><br></p><p>De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/39-2000x2666-9-2000x2666-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/39-2000x2666-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/38-2000x2666-7-2000x2666-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/38-2000x2666-7.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x2666-96-2000x2666-70-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-2000x2666-96-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x2666-34-2000x2666-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x2666-34.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20-2000x2666-17-2000x2666-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20-2000x2666-17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x2666-58-2000x2666-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-2000x2666-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2666-22-2000x2666-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b-2000x2666-22.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -1185,6 +1413,40 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-1x",
           "_params": {
             "paddingTop": 1,
@@ -1215,7 +1477,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Creative",
@@ -1269,6 +1531,40 @@
           "_anchor": "gallery1-1e",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_name": "footer1",
@@ -1437,6 +1733,40 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-1z",
           "_params": {
             "paddingTop": 1,
@@ -1467,7 +1797,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Responsive",
@@ -1556,10 +1886,23 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Responsive",
@@ -1693,6 +2036,40 @@
           "_anchor": "gallery1-2c",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_name": "footer1",
