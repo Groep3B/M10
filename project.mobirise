@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 137,
+    "uniqCompNum": 144,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -439,6 +439,40 @@
           },
           "title": "",
           "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -688,7 +722,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -905,10 +939,10 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3m",
+          "_anchor": "header3-3v",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": true
           },
@@ -1380,10 +1414,10 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3o",
+          "_anchor": "header3-3w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": true
           },
@@ -1698,10 +1732,10 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3q",
+          "_anchor": "header3-3x",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": true
           },
@@ -2415,10 +2449,10 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3s",
+          "_anchor": "header3-3y",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": true
           },
@@ -3047,10 +3081,10 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3k",
+          "_anchor": "header3-3z",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": true
           },
