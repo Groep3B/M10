@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 160,
+    "uniqCompNum": 171,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -236,7 +236,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-31",
+          "_anchor": "header3-4g",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2376,6 +2376,40 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -2429,7 +2463,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-3e",
+          "_anchor": "menu-41",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "1.1",
@@ -2470,40 +2504,6 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3h",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#c29495",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
               "color": "#c29495",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2518,15 +2518,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3i",
+          "_anchor": "header3-4m",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br><br>Contact</span><br>",
-          "meta": "email-faceboek<br><br>"
+          "title": "<br><br>Contact",
+          "meta": "Facebook - Emailadres<br><br><br>"
         },
         {
           "_styles": {
@@ -2552,7 +2552,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3j",
+          "_anchor": "header3-4n",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2575,7 +2575,7 @@
               "color": "#232323"
             }
           },
-          "_anchor": "features6-3f",
+          "_anchor": "features6-4o",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2719,7 +2719,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3g",
+          "_anchor": "header3-4p",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2753,7 +2753,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3z",
+          "_anchor": "header3-4q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
