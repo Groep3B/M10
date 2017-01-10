@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -625,7 +625,7 @@
           "_name": "header3",
           "_anchor": "header3-2h",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -853,9 +853,9 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2i",
+          "_anchor": "header3-2s",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1032,7 +1032,7 @@
           "_name": "header3",
           "_anchor": "header3-2j",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1245,7 +1245,7 @@
           "_name": "header3",
           "_anchor": "header3-2l",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1315,7 +1315,7 @@
           "_name": "header3",
           "_anchor": "header3-2m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1458,7 +1458,7 @@
           "_name": "header3",
           "_anchor": "header3-2n",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1635,7 +1635,7 @@
           "_name": "header3",
           "_anchor": "header3-2q",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1966,7 +1966,7 @@
           "_name": "header3",
           "_anchor": "header3-2o",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "7",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
