@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 175,
+    "uniqCompNum": 179,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -190,7 +190,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -2426,40 +2426,6 @@
           "meta": "Facebook - Emailadres<br><br><br>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4n",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#c29495",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
@@ -2616,11 +2582,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4p",
+          "_anchor": "header3-4y",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "",
@@ -2650,7 +2616,75 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4q",
+          "_anchor": "header3-4x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
