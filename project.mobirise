@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 104,
+    "uniqCompNum": 114,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -211,6 +211,40 @@
           "title": "Human marks&nbsp;",
           "text": "Eline De Backer, Lotte Dierckx, Hanne Schelkens, Nathalie Storimans.<br><br>Multidisciplinariteit<br><br>faculteit ontwerpwetenschappen - UA - groep 3<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-31",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_tags": [
@@ -523,6 +557,74 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-30",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#c29495",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -887,9 +989,43 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-32",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-2s",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1260,9 +1396,43 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-33",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-2l",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -1476,9 +1646,43 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-34",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-2n",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
@@ -2003,7 +2207,41 @@
           "_name": "header3",
           "_anchor": "header3-2o",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ceb1b1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-35",
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
