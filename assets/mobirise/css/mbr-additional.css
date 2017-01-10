@@ -498,6 +498,7 @@ h6,
 }
 #features6-h H4 {
   font-family: 'Raleway', sans-serif;
+  color: #232323;
 }
 
 
@@ -940,6 +941,9 @@ h6,
   font-size: 13px;
   color: #c1c1c1;
   text-align: right;
+}
+#header3-1z SPAN {
+  color: #c29495;
 }
 #header3-2o .mbr-section-title,
 #header3-2o .mbr-section-subtitle {

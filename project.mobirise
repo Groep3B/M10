@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -207,8 +207,8 @@
           },
           "_anchor": "content6-10",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Multidisciplinariteit</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> ( het inzetten van kennis en vaardigheden uit een andere disciplines in de eigen discipline ). &nbsp;</span><br></p><p><br></p><p>Onze ontwerpopdracht betreft het creëren van een eigen object op basis van bestudeerde werken en activiteiten uit de kunst- en designwereld. Om uiteindelijk tot een potentiele idee, materiaaltoepassing, methode en denkwijzen te komen en deze weer te geven in een eigen ontwerp.&nbsp;</p><p><br></p>",
@@ -349,7 +349,8 @@
           "_styles": {
             "H4": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#232323"
             }
           },
           "_anchor": "features6-h",
@@ -390,7 +391,7 @@
           "title1": "De Backer Eline",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<i>Eline.de.backer@hotmail.com</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/eline.debacker1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -416,7 +417,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "title3": "Hanne Schelkens",
@@ -432,7 +433,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "title4": "Nathalie Storimans",
@@ -1089,7 +1090,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -1211,111 +1212,6 @@
             "showBullets": true
           },
           "_anchor": "gallery1-1b",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2e",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/39-2000x2666-9-2000x2666-9.jpg",
-                "image": "@PROJECT_PATH@/assets/images/39-2000x2666-9.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/38-2000x2666-7-2000x2666-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/38-2000x2666-7.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18-2000x2666-96-2000x2666-70-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18-2000x2666-96-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14-2000x2666-34-2000x2666-42.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14-2000x2666-34.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20-2000x2666-17-2000x2666-77.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20-2000x2666-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19-2000x2666-58-2000x2666-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/19-2000x2666-58.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2666-22-2000x2666-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b-2000x2666-22.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-2k",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1761,6 +1657,9 @@
               "font-size": "13px",
               "color": "#c1c1c1",
               "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#c29495"
             }
           },
           "_tags": [
