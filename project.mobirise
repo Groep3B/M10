@@ -166,7 +166,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-31\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -591,40 +591,6 @@
           },
           "title": "",
           "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2w",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#c29495",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
         }
       ]
     },
@@ -721,7 +687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-31\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1128,7 +1094,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-31\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1778,7 +1744,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-31\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1875,7 +1841,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-10\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-31\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-h\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
