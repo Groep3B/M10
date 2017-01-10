@@ -1966,7 +1966,7 @@
           "_name": "header3",
           "_anchor": "header3-2o",
           "_params": {
-            "paddingTop": "7",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ceb1b1",
             "showMeta": true
