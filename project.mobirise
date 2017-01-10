@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 159,
+    "uniqCompNum": 160,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -190,7 +190,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1256,7 +1256,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4b",
+          "_anchor": "header3-4f",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
