@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -572,7 +572,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan.&nbsp;</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan. De mensenhuid is iets zeer fragiel maar tegelijkertijd is het ook de beschermlaag van ons lichaam. Door naar de huid van een persoon te kijken komen we al zeer veel te weten over de gezondheid maar ook over de persoon zelf: Rimpels, wallen, kleur, littekens,... Dit leid dan weer naar de bescherming van het lichaam \"een tweede huid\" die op verschillende manieren geïnterpreteerd kan worden: kleding, schoenen, hoofddeksel, paraplu, auto, woning,... parallelle hier mee loopt het gevoel van geborgenheid.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -1013,7 +1013,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De menselijke huid is iets zeer dun en fragiel. Om dit te kunnen weergeven moeten we het juiste materiaal vinden, waarvoor we verschillende materiaalstudies moeten toepassen.&nbsp;</span></p>"
+          "text": "Om het juiste beeld en gevoel te kunnen weergeven hebben we het juiste materiaal nodig. Hiervoor hebben we verschillende materiaal onderzoeken gedaan... &nbsp;Kaarsvet, tissues met behangerslijm, stof bewerkt met textielverharder en het verwarmen van een PMMA plaat om het zo te kunnen vervormen. Voor dit laatste hebben we uiteindelijk gekozen. Een PMMA plaat is gemakkelijk vervormbaar en geeft <i>\"de spiralen\" </i>de mooiste egale uitstraling.&nbsp;"
         },
         {
           "_tags": [
@@ -1119,6 +1119,36 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/36-2000x1500-16-2000x1500-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/36-2000x1500-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1500-69-2000x1500-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1500-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/z-2000x1500-24-2000x1500-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/z-2000x1500-24.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/11-2000x1500-59-2000x1500-51.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11-2000x1500-59.jpg",
                 "caption": "Type caption here",
@@ -1149,38 +1179,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/y-2000x1500-6-2000x1500-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/y-2000x1500-6.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/36-2000x1500-16-2000x1500-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/36-2000x1500-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1500-69-2000x1500-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/22-2000x1500-69.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/z-2000x1500-24-2000x1500-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/z-2000x1500-24.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y-2000x1500-86-2000x1500-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/y-2000x1500-86.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1414,7 +1414,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het menselijk lichaam in pijn of verdriet. Alle mensen in welke cultuur of land dan ook geeft dit gevoel weer door de houding die ze aannemen. Ingedogen als een bolletje, zoekend naar beschutting ( onder een deken ).&nbsp;</span></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wij mensen uit welke cultuur of land dan ook nemen een ingedoken houding aan bij verdriet of pijn om ons te beschermen tegen elementen van buiten af. Deze houding zien we regelmatig terugkeren bij vluchtelingen. Zij zoeken beschutting onder een deken dat ze krijgen bij aankomst. Dit gevoel willen we graag weergeven in ons project. Wanneer toeschouwers beschutting zoeken tussen de objecten krijgen ze een glimp van het veilige gevoel dat vluchtelingen onder hun deken voelen.&nbsp;<br></span></p>"
         },
         {
           "_tags": [
@@ -1915,7 +1915,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het gevoel dat vluchtelingen krijgen ... Proberen weer te geven in een vorm en proberen over te brengen naar de bezoeker.&nbsp;</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zoeken naar de juiste vorm was waarschijnlijk één van de moeilijkste stappen. Een vorm die zo minimalistisch mogeljk maar toch net genoeg om een beschuttend gevoel te krijgen.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -2054,7 +2054,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>Dan eindelijk het realisatieproces. Om ons eindresulaat te kunnen bekomen hebben we ons moeten&nbsp;verplaatsen naar het plexi bedrijf Imatex in schoten. Met behulp van \"mallen\" uit karton hebben we de juiste vormen uit de PMMA platen gesneden. Door ze op te warmen verliezen ze hun vastheid en krijgen we de mogelijkheid ze te plooien tot de gewenste vormen.&nbsp;<br></p>"
         },
         {
           "_tags": [
