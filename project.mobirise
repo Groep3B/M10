@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -611,18 +611,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content1-19",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan. De mensenhuid is iets zeer fragiel maar tegelijkertijd is het ook de beschermlaag van ons lichaam. Door naar de huid van een persoon te kijken komen we al zeer veel te weten over de gezondheid maar ook over de persoon zelf: Rimpels, wallen, kleur, littekens,... Dit leid dan weer naar de bescherming van het lichaam \"een tweede huid\" die op verschillende manieren geïnterpreteerd kan worden: kleding, schoenen, hoofddeksel, paraplu, auto, woning,... parallelle hier mee loopt het gevoel van geborgenheid.&nbsp;</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan. De mensenhuid is iets zeer fragiel maar tegelijkertijd is het ook de beschermlaag van ons lichaam. Door naar de huid van een persoon te kijken komen we al zeer veel te weten over de gezondheid maar ook over de persoon zelf: Rimpels, wallen, kleur, littekens,... Dit leid dan weer naar de bescherming van het lichaam \"een tweede huid\" die op verschillende manieren geïnterpreteerd kan worden: kleding, schoenen, hoofddeksel, paraplu, auto, woning,... parallelle hier mee loopt het gevoel van geborgenheid.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -1061,18 +1061,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content1-57",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Om het juiste beeld en gevoel te kunnen weergeven hebben we het juiste materiaal nodig. Hiervoor hebben we verschillende materiaal onderzoeken gedaan...  Kaarsvet, tissues met behangerslijm, stof bewerkt met textielverharder en het verwarmen van een PMMA plaat om het zo te kunnen vervormen. Voor dit laatste hebben we uiteindelijk gekozen. Een PMMA plaat is gemakkelijk vervormbaar en geeft \"de spiralen\" de mooiste egale uitstraling.</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Om het juiste beeld en gevoel te kunnen weergeven hebben we het juiste materiaal nodig. Hiervoor hebben we verschillende materiaal onderzoeken gedaan...  Kaarsvet, tissues met behangerslijm, stof bewerkt met textielverharder en het verwarmen van een PMMA plaat om het zo te kunnen vervormen. Voor dit laatste hebben we uiteindelijk gekozen. Een PMMA plaat is gemakkelijk vervormbaar en geeft \"de spiralen\" de mooiste egale uitstraling.</span><br></p>"
         },
         {
           "_styles": {
@@ -1418,7 +1418,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -1658,18 +1658,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "content1-1f",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wij mensen uit welke cultuur of land dan ook nemen een ingedoken houding aan bij verdriet of pijn om ons te beschermen tegen elementen van buiten af. Deze houding zien we regelmatig terugkeren bij vluchtelingen. Zij zoeken beschutting onder een deken dat ze krijgen bij aankomst. Dit gevoel willen we graag weergeven in ons project. Wanneer toeschouwers beschutting zoeken tussen de objecten krijgen ze een glimp van het veilige gevoel dat vluchtelingen onder hun deken voelen.&nbsp;<br></span></p>",
-          "_styles": {
-            "P": {
-              "color": "#cccccc"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wij mensen uit welke cultuur of land dan ook nemen een ingedoken houding aan bij verdriet of pijn om ons te beschermen tegen elementen van buiten af. Deze houding zien we regelmatig terugkeren bij vluchtelingen. Zij zoeken beschutting onder een deken dat ze krijgen bij aankomst. Dit gevoel willen we graag weergeven in ons project. Wanneer toeschouwers beschutting zoeken tussen de objecten krijgen ze een glimp van het veilige gevoel dat vluchtelingen onder hun deken voelen.&nbsp;<br></span></p>"
         },
         {
           "_tags": [
@@ -2041,18 +2041,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content1-1v",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zoeken naar de juiste vorm was waarschijnlijk één van de moeilijkste stappen. Een vorm die zo minimalistisch mogeljk maar toch net genoeg om een beschuttend gevoel te krijgen.&nbsp;</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zoeken naar de juiste vorm was waarschijnlijk één van de moeilijkste stappen. Een vorm die zo minimalistisch mogeljk maar toch net genoeg om een beschuttend gevoel te krijgen.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -2185,18 +2185,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content1-2p",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#1b1b1b"
           },
-          "text": "<p>Dan eindelijk het realisatieproces. Om ons eindresulaat te kunnen bekomen hebben we ons moeten&nbsp;verplaatsen naar het plexi bedrijf Imatex in schoten. Met behulp van \"mallen\" uit karton hebben we de juiste vormen uit de PMMA platen gesneden. Door ze op te warmen verliezen ze hun vastheid en krijgen we de mogelijkheid ze te plooien tot de gewenste vormen.&nbsp;<br></p>",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text": "<p>Dan eindelijk het realisatieproces. Om ons eindresulaat te kunnen bekomen hebben we ons moeten&nbsp;verplaatsen naar het plexi bedrijf Imatex in schoten. Met behulp van \"mallen\" uit karton hebben we de juiste vormen uit de PMMA platen gesneden. Door ze op te warmen verliezen ze hun vastheid en krijgen we de mogelijkheid ze te plooien tot de gewenste vormen.&nbsp;<br></p>"
         },
         {
           "_tags": [
