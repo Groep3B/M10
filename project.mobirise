@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 179,
+    "uniqCompNum": 197,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file://M10",
@@ -72,7 +72,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -87,36 +87,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c29495"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c29495",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -133,16 +133,16 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-o",
+          "_anchor": "menu-41",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
             "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#c29495",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -166,7 +166,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -176,17 +176,23 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#c29495",
+              "color": "#efefef",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
             },
             ".mbr-section-lead": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "20px",
+              "text-align": "center",
+              "color": "#cccccc"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#cccccc"
             }
           },
-          "_anchor": "header4-23",
+          "_anchor": "header4-54",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -201,15 +207,15 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#1b1b1b",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "Human marks&nbsp;",
-          "text": "Eline De Backer, Lotte Dierckx, Hanne Schelkens, Nathalie Storimans.<br><br>Multidisciplinariteit<br><br>faculteit ontwerpwetenschappen - UA - groep 3<br>",
+          "title": "&nbsp; <br>Human marks<br>",
+          "text": "<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">Eline De Backer, Lotte Dierckx, Hanne Schelkens, Nathalie Storimans.<br></span><span style=\"line-height: 1.5;\">Multidisciplinariteit</span><br>Faculteit ontwerpwetenschappen - UA - Groep 3<span style=\"line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -236,11 +242,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4g",
+          "_anchor": "header3-5g",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c29495",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -253,14 +259,15 @@
           "_name": "content6",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#efefef"
             }
           },
           "_anchor": "content6-4r",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#1b1b1b"
           },
           "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Multidisciplinariteit <br></b>( het inzetten van kennis en vaardigheden uit andere disciplines in een eigen discipline )<br><br>Onze ontwerpopdracht betreft het creëren van een eigen object op basis van bestudeerde werken en activiteiten uit de kunst- en designwereld. Om uiteindelijk tot een potentiele idee, materiaaltoepassing, methode en denkwijzen te komen en deze weer te geven in een eigen ontwerp.&nbsp;</span><br></p><p><br></p>",
           "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Proces</b><br>Na verschillende brainstorm sessies zijn we op het menselijklichaam als uitgangspunt gekomen. Verder ingaand op de bescherming van het lichaam ( bv: huid en geest ), komen we op het thema \"de tweede huid\". Deze is nog altijd vrij breedt, je kan de tweede huid op verschillende manieren interpreteren: kledingstukken, paraplu maar ook een woning en auto kunnen bekeken worden als een tweede huid. Wat opvalt is de houding die het menselijk lichaam aanneemt als het zich zelf wilt beschermen ( ingedoken ).&nbsp;</span><br></p><p><br>Door de houding te bestuderen zijn we bij het thema vluchtelingen uitgekomen. Bij hun aankomst krijgen ze vaak een deken aangeboden dat bescherming geeft ( het gevoel van beschutting en bescherming tegen koude ). Dit gevoel proberen we over te brengen naar de toeschouwer. De bescherming vinden/voelen ze tussen de vormen.&nbsp;</p>"
@@ -293,7 +300,41 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#1b1b1b",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -327,7 +368,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -342,6 +383,40 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-55",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -349,36 +424,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c29495"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c29495",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -395,16 +470,16 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1r",
+          "_anchor": "menu-41",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
             "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#c29495",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -428,41 +503,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3l",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -476,7 +517,11 @@
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
+            },
+            "SPAN": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -487,7 +532,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br><br>Menselijk Lichaam</span><br>",
@@ -502,7 +547,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c29495",
+              "color": "#efefef",
               "text-align": "right"
             },
             "SMALL": {
@@ -521,10 +566,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-black\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "title": "<a href=\"page1.html\" class=\"text-white\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-white\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-white\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-white\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "meta": ""
         },
         {
@@ -551,11 +596,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2h",
+          "_anchor": "header3-5b",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -570,9 +615,14 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan. De mensenhuid is iets zeer fragiel maar tegelijkertijd is het ook de beschermlaag van ons lichaam. Door naar de huid van een persoon te kijken komen we al zeer veel te weten over de gezondheid maar ook over de persoon zelf: Rimpels, wallen, kleur, littekens,... Dit leid dan weer naar de bescherming van het lichaam \"een tweede huid\" die op verschillende manieren geïnterpreteerd kan worden: kleding, schoenen, hoofddeksel, paraplu, auto, woning,... parallelle hier mee loopt het gevoel van geborgenheid.&nbsp;</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Verschillende brainstorm sessies hebben ons naar het menselijklichaam als uitgangspunt geleid. Beweging, zicht en huid zijn we verder gaan onderzoeken. Waarna we besloten om met huid verder te gaan. De mensenhuid is iets zeer fragiel maar tegelijkertijd is het ook de beschermlaag van ons lichaam. Door naar de huid van een persoon te kijken komen we al zeer veel te weten over de gezondheid maar ook over de persoon zelf: Rimpels, wallen, kleur, littekens,... Dit leid dan weer naar de bescherming van het lichaam \"een tweede huid\" die op verschillende manieren geïnterpreteerd kan worden: kleding, schoenen, hoofddeksel, paraplu, auto, woning,... parallelle hier mee loopt het gevoel van geborgenheid.&nbsp;</span><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_tags": [
@@ -694,12 +744,12 @@
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "0",
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery1-18",
@@ -734,7 +784,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -768,7 +818,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -783,6 +833,40 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-56",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -790,36 +874,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c29495"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c29495",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -836,16 +920,16 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-12",
+          "_anchor": "menu-41",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
             "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#c29495",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -869,41 +953,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3n",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -917,7 +967,11 @@
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
+            },
+            "SPAN": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -928,7 +982,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br><br>Materiaal Studie</span><br>",
@@ -943,7 +997,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c29495",
+              "color": "#efefef",
               "text-align": "right"
             },
             "SMALL": {
@@ -962,10 +1016,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-black\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "title": "<a href=\"page1.html\" class=\"text-white\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-white\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-white\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-white\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "meta": ""
         },
         {
@@ -992,11 +1046,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2j",
+          "_anchor": "header3-5c",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1007,13 +1061,52 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1p",
+          "_anchor": "content1-57",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#1b1b1b"
           },
-          "text": "Om het juiste beeld en gevoel te kunnen weergeven hebben we het juiste materiaal nodig. Hiervoor hebben we verschillende materiaal onderzoeken gedaan... &nbsp;Kaarsvet, tissues met behangerslijm, stof bewerkt met textielverharder en het verwarmen van een PMMA plaat om het zo te kunnen vervormen. Voor dit laatste hebben we uiteindelijk gekozen. Een PMMA plaat is gemakkelijk vervormbaar en geeft <i>\"de spiralen\" </i>de mooiste egale uitstraling.&nbsp;"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Om het juiste beeld en gevoel te kunnen weergeven hebben we het juiste materiaal nodig. Hiervoor hebben we verschillende materiaal onderzoeken gedaan...  Kaarsvet, tissues met behangerslijm, stof bewerkt met textielverharder en het verwarmen van een PMMA plaat om het zo te kunnen vervormen. Voor dit laatste hebben we uiteindelijk gekozen. Een PMMA plaat is gemakkelijk vervormbaar en geeft \"de spiralen\" de mooiste egale uitstraling.</span><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#7c7c7c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px",
+              "color": "#c1c1c1",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#1b1b1b",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_tags": [
@@ -1029,8 +1122,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k5-2000x2666-65-2000x2666-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k5-2000x2666-65.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k5-2000x2666-65-2000x2666-15-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k5-2000x2666-65-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1039,8 +1132,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k1-2000x2666-88-2000x2666-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k1-2000x2666-88.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k1-2000x2666-88-2000x2666-11-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k1-2000x2666-88-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1049,8 +1142,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k2-2000x2666-45-2000x2666-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k2-2000x2666-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k2-2000x2666-45-2000x2666-10-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k2-2000x2666-45-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1059,8 +1152,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k3-2000x2666-5-2000x2666-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k3-2000x2666-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k3-2000x2666-5-2000x2666-82-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k3-2000x2666-5-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1069,8 +1162,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k4-2000x1500-12-2000x1500-75.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k4-2000x1500-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k4-2000x1500-12-2000x1500-75-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k4-2000x1500-12-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1079,11 +1172,33 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k6-2000x1500-28-2000x1500-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k6-2000x1500-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k6-2000x1500-28-2000x1500-81-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k6-2000x1500-28-1.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#1b1b1b",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-51",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
@@ -1112,15 +1227,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/6-2000x1500-99-2000x1500-9.jpg",
                 "image": "@PROJECT_PATH@/assets/images/6-2000x1500-99.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#1b1b1b",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/36-2000x1500-16-2000x1500-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/36-2000x1500-16.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/36-2000x1500-16-2000x1500-65-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/36-2000x1500-16-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1129,8 +1266,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1500-69-2000x1500-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/22-2000x1500-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1500-69-2000x1500-82-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1500-69-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1139,48 +1276,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/z-2000x1500-24-2000x1500-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/z-2000x1500-24.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1500-59-2000x1500-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11-2000x1500-59.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/40-2000x1500-59-2000x1500-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/40-2000x1500-59.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/k-2000x1500-29-2000x1500-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/k-2000x1500-29.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/y-2000x1500-86-2000x1500-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/y-2000x1500-86.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/z-2000x1500-24-2000x1500-25-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/z-2000x1500-24-2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1188,12 +1285,74 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#1b1b1b",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-1b",
+          "_anchor": "gallery1-52",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1500-59-2000x1500-51-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1500-59-3.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/40-2000x1500-59-2000x1500-71-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/40-2000x1500-59-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/k-2000x1500-29-2000x1500-99-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k-2000x1500-29-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y-2000x1500-86-2000x1500-96-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/y-2000x1500-86-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#1b1b1b",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-53",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1225,7 +1384,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1296,11 +1455,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3p",
+          "_anchor": "header3-5e",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1308,17 +1467,108 @@
         },
         {
           "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#cccccc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#cccccc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#010101"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#131313!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1b1b1b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#cccccc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-41",
+          "_params": {
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#cccccc",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c29495",
+              "color": "#efefef",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -1329,7 +1579,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<br><br>Lichaam in pijn",
@@ -1344,7 +1594,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c29495",
+              "color": "#efefef",
               "text-align": "right"
             },
             "SMALL": {
@@ -1363,10 +1613,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-black\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "title": "<a href=\"page1.html\" class=\"text-white\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-white\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-white\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-white\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "meta": ""
         },
         {
@@ -1393,11 +1643,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2m",
+          "_anchor": "header3-5d",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1412,9 +1662,14 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wij mensen uit welke cultuur of land dan ook nemen een ingedoken houding aan bij verdriet of pijn om ons te beschermen tegen elementen van buiten af. Deze houding zien we regelmatig terugkeren bij vluchtelingen. Zij zoeken beschutting onder een deken dat ze krijgen bij aankomst. Dit gevoel willen we graag weergeven in ons project. Wanneer toeschouwers beschutting zoeken tussen de objecten krijgen ze een glimp van het veilige gevoel dat vluchtelingen onder hun deken voelen.&nbsp;<br></span></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wij mensen uit welke cultuur of land dan ook nemen een ingedoken houding aan bij verdriet of pijn om ons te beschermen tegen elementen van buiten af. Deze houding zien we regelmatig terugkeren bij vluchtelingen. Zij zoeken beschutting onder een deken dat ze krijgen bij aankomst. Dit gevoel willen we graag weergeven in ons project. Wanneer toeschouwers beschutting zoeken tussen de objecten krijgen ze een glimp van het veilige gevoel dat vluchtelingen onder hun deken voelen.&nbsp;<br></span></p>",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            }
+          }
         },
         {
           "_tags": [
@@ -1509,9 +1764,9 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#1b1b1b",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery1-1e",
@@ -1546,7 +1801,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1580,101 +1835,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
           "meta": ""
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#c29495"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
-            },
-            ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#c29495",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-14",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
-            },
-            "fontColor": "#c29495",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1683,96 +1848,6 @@
         "order": 5
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#c29495"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
-            },
-            ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#c29495",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-14",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
-            },
-            "fontColor": "#c29495",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -1797,11 +1872,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3r",
+          "_anchor": "header3-58",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -1809,17 +1884,108 @@
         },
         {
           "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#cccccc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#cccccc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#010101"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#131313!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1b1b1b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#cccccc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-41",
+          "_params": {
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#cccccc",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c29495",
+              "color": "#efefef",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -1830,7 +1996,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<br><br>Vertaling naar vorm",
@@ -1845,7 +2011,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c29495",
+              "color": "#efefef",
               "text-align": "right"
             },
             "SMALL": {
@@ -1864,44 +2030,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-black\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#7c7c7c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px",
-              "color": "#c1c1c1",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-36",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
-            "showMeta": true
-          },
-          "title": "",
+          "title": "<a href=\"page1.html\" class=\"text-white\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-white\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-white\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-white\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "meta": ""
         },
         {
@@ -1913,9 +2045,14 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#1b1b1b"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zoeken naar de juiste vorm was waarschijnlijk één van de moeilijkste stappen. Een vorm die zo minimalistisch mogeljk maar toch net genoeg om een beschuttend gevoel te krijgen.&nbsp;</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zoeken naar de juiste vorm was waarschijnlijk één van de moeilijkste stappen. Een vorm die zo minimalistisch mogeljk maar toch net genoeg om een beschuttend gevoel te krijgen.&nbsp;</span><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_tags": [
@@ -2000,9 +2137,9 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#1b1b1b",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery1-2f",
@@ -2037,7 +2174,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2052,9 +2189,14 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#1b1b1b"
           },
-          "text": "<p>Dan eindelijk het realisatieproces. Om ons eindresulaat te kunnen bekomen hebben we ons moeten&nbsp;verplaatsen naar het plexi bedrijf Imatex in schoten. Met behulp van \"mallen\" uit karton hebben we de juiste vormen uit de PMMA platen gesneden. Door ze op te warmen verliezen ze hun vastheid en krijgen we de mogelijkheid ze te plooien tot de gewenste vormen.&nbsp;<br></p>"
+          "text": "<p>Dan eindelijk het realisatieproces. Om ons eindresulaat te kunnen bekomen hebben we ons moeten&nbsp;verplaatsen naar het plexi bedrijf Imatex in schoten. Met behulp van \"mallen\" uit karton hebben we de juiste vormen uit de PMMA platen gesneden. Door ze op te warmen verliezen ze hun vastheid en krijgen we de mogelijkheid ze te plooien tot de gewenste vormen.&nbsp;<br></p>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_tags": [
@@ -2189,9 +2331,9 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#1b1b1b",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery1-2c",
@@ -2226,7 +2368,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2260,7 +2402,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -2295,11 +2437,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4l",
+          "_anchor": "header3-59",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2314,36 +2456,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c29495"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c29495",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2362,14 +2504,14 @@
           "_name": "menu",
           "_anchor": "menu-41",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
             "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#c29495",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2393,7 +2535,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2401,14 +2543,15 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#c29495",
+              "color": "#efefef",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "right"
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -2419,7 +2562,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<br><br>Contact",
@@ -2586,7 +2729,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -2620,7 +2763,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -2654,7 +2797,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2688,7 +2831,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
@@ -2723,11 +2866,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-48",
+          "_anchor": "header3-5a",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2742,36 +2885,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c29495"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c29495"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#c29495",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-family": "'Bitter', serif"
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c29495",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2790,14 +2933,14 @@
           "_name": "menu",
           "_anchor": "menu-41",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "bgColor": "#1b1b1b",
+            "fontSize": "1.05",
             "fontName": {
-              "name": "Bitter",
-              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "css": "'Bitter', serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#c29495",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2821,7 +2964,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nl.pinterest.com/elinedebacker1/multidisciplinariteit/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Proces</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2836,7 +2979,11 @@
             },
             "SMALL": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
+            },
+            "SPAN": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -2847,7 +2994,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br><br>Proces</span><br>",
@@ -2862,7 +3009,7 @@
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c29495",
+              "color": "#efefef",
               "text-align": "right"
             },
             "SMALL": {
@@ -2881,10 +3028,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
-          "title": "<a href=\"page1.html\" class=\"text-black\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-black\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-black\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-black\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "title": "<a href=\"page1.html\" class=\"text-white\">Menselijk lichaam</a>&nbsp;- <a href=\"page2.html\" class=\"text-white\">Materiaalstudie</a>&nbsp;-&nbsp;&nbsp;<a href=\"page3.html\" class=\"text-white\">Lichaam in pijn</a>&nbsp;- <a href=\"page4.html\" class=\"text-white\">Vertaling naar vorm</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "meta": ""
         },
         {
@@ -2915,7 +3062,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -2928,11 +3075,15 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "color": "#c29495"
+              "color": "#efefef"
             },
             "H5": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#cccccc"
+            },
+            "P": {
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "features3-42",
@@ -2942,7 +3093,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#1b1b1b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3075,7 +3226,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ceb1b1",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "",
@@ -3109,7 +3260,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#1b1b1b",
             "showMeta": true
           },
           "title": "",
